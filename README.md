@@ -1,2 +1,28 @@
-# ab7e4a3f-database-administration-client
-Managing database clients, tracking service requests, and monitoring project pipelines across multiple SQL Server instances is eating up your admin hours. Stop juggling spreadsheets and email threads—Database Administration Client CRM and Pipeline Tracker Notion Template consolidates everything into one unified workspace.  Built specifically for da
+# Database Administration Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY00jbHhaQA7BCavOcZw20)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY00jbHhaQA7BCavOcZw20)
+
